@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TbcClasswork1</string>
+    <string name="enter_anagrams">Enter Anagrams</string>
+    <string name="save">Save</string>
+    <string name="output">Output</string>
+    <string name="clear">clear</string>
+</resources>
